@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Pytest / cache
+.pytest_cache/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Reports - guardamos la carpeta y los reportes generados, pero ignoramos artefactos locales
+reports/assets/
+
+# OS
+.DS_Store
+Thumbs.db
